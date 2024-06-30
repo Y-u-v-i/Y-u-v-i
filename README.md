@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   
   <li>Notes Application using HTML, CSS and JavaScript</li>
 
-  <li>Weather Application using Python with Django Framework,HTML, CSS and JavaScript</li>
+   <li>Weather Application using Python with Django Framework,HTML, CSS and JavaScript</li>
  </div>
  <br/>
 <div align="center"> 

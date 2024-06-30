@@ -33,6 +33,8 @@ Here are some ideas to get you started:
   <li>Student (CRUD) with Python and MySQL</li>
   
   <li>Notes Application using HTML, CSS and JavaScript</li>
+
+  <li>Weather Application using Python with Django Framework,HTML, CSS and JavaScript</li>
  </div>
  <br/>
 <div align="center"> 

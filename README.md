@@ -34,7 +34,13 @@ Here are some ideas to get you started:
   
   <li>Notes Application using HTML, CSS and JavaScript</li>
 
-   <li>Weather Application using Python with Django Framework,HTML, CSS and JavaScript</li>
+  <li>Weather Application using Python with Django Framework,HTML, CSS and JavaScript</li>
+
+  <li>QrCode using Python</li>
+
+   <li>Google home Page clone using Tailwindcss</li>
+
+   <li>Password Manager using Python</li>
  </div>
  <br/>
 <div align="center"> 

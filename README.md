@@ -53,7 +53,7 @@ I have practical knowledge of establishing and managing network connectivity usi
     <img src="https://skillicons.dev/icons?i=react,next,vue"/>
     
 </div>
-<h3> Devops Skills learnt so far</h3>
+<h3> Devops Skills learnt</h3>
 <div>
     <img src="https://skillicons.dev/icons?i=linux,grafana,prometheus,git,aws,docker,ansible,azure,kubernetes"/>
 </div>

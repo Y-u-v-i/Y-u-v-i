@@ -18,7 +18,7 @@ Here are some ideas to get you started:
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+I'am+Yuvaraj+.....;Welcome+to+My+Github+Profile." alt="Typing SVG" />
 </h1>
 
-<h3 align="center">A passionate software developer and Data engineer</h3>
+<h3 align="center">A learning Cloud, Network and Server Automation engineer</h3>
 
 <br/>
 
@@ -26,21 +26,11 @@ Here are some ideas to get you started:
  
  🔭 I’m currently working on **a Django Project**
  
- 🌱 I’m currently learning **C,Python and JavaScript**
+ 🌱 I’m currently learning **Ansible,AWS,Azure,GCP,Docker, kubernetes and Python**
+ 
+I have practical knowledge of establishing and managing network connectivity using switches, routers, and access points. I also have an understanding of network security and protection through firewalls. Additionally, I possess intermediate knowledge of network ports and protocols used in web, networking, and infrastructure services. I have gained knowledge of both on-premises and cloud server environments, including their basic configurations, management, and operations.
  <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=My+Past+Projects...." alt="Typing SVG" /></a>
-  
-  <li>Student (CRUD) with Python and MySQL</li>
-  
-  <li>Notes Application using HTML, CSS and JavaScript</li>
-
-  <li>Weather Application using Python with Django Framework,HTML, CSS and JavaScript</li>
-
-  <li>QrCode using Python</li>
-
-   <li>Google home Page clone using Tailwindcss</li>
-
-   <li>Password Manager using Python</li>
  </div>
  <br/>
 <div align="center"> 
@@ -60,6 +50,7 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,tailwind" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mysql" /><br>
     <img src="https://skillicons.dev/icons?i=react,next,vue"/>
+    <img src="https://skillicons.dev/icons?i=aws,docker,ansible/>
 </div>
 
 <br/>

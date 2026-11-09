@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 
 <div align="center">
  
- 🔭 I’m currently working on **a Django Project**
+ 🔭 I’m currently working on **a AWS + terraform Deployment Project**
  
  🌱 I’m currently learning **Ansible,AWS,Azure,GCP,Docker, kubernetes and Python**
  
 I have practical knowledge of establishing and managing network connectivity using switches, routers, and access points. I also have an understanding of network security and protection through firewalls. Additionally, I possess intermediate knowledge of network ports and protocols used in web, networking, and infrastructure services. I have gained knowledge of both on-premises and cloud server environments, including their basic configurations, management, and operations.
  <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=My+Past+Projects...." alt="Typing SVG" /></a>
+  
  </div>
  <br/>
 <div align="center"> 

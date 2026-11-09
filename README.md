@@ -46,13 +46,16 @@ I have practical knowledge of establishing and managing network connectivity usi
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
+<h3>Development skills learnt </h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,tailwind" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mysql" /><br>
     <img src="https://skillicons.dev/icons?i=react,next,vue"/>
+    
+</div>
+<h3> Devops Skills learnt so far</h3>
 <div>
     <img src="https://skillicons.dev/icons?i=aws,docker,ansible,kubernetes"/>
-</div>
 </div>
 
 <br/>

@@ -55,7 +55,7 @@ I have practical knowledge of establishing and managing network connectivity usi
 </div>
 <h3> Devops Skills learnt so far</h3>
 <div>
-    <img src="https://skillicons.dev/icons?i=aws,docker,ansible,kubernetes"/>
+    <img src="https://skillicons.dev/icons?i=linux,grafana,prometheus,git,aws,docker,ansible,azure,kubernetes"/>
 </div>
 
 <br/>

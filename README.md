@@ -18,7 +18,7 @@ Here are some ideas to get you started:
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+I'am+Yuvaraj+.....;Welcome+to+My+Github+Profile." alt="Typing SVG" />
 </h1>
 
-<h3 align="center">A learning Cloud, Network and Server Automation engineer</h3>
+<h3 align="center">A Cloud, Network and Server Automation engineer</h3>
 
 <br/>
 

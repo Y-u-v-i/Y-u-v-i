@@ -50,7 +50,7 @@ I have practical knowledge of establishing and managing network connectivity usi
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,tailwind" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mysql" /><br>
     <img src="https://skillicons.dev/icons?i=react,next,vue"/>
-    <img src="https://skillicons.dev/icons?i=aws,docker,ansible/>
+    <img src="https://skillicons.dev/icons?i=aws,docker,ansible"/>
 </div>
 
 <br/>
